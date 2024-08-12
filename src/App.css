@@ -1,0 +1,25 @@
+:root {
+  --tg-theme-bg-color: #efeff3;
+  --tg-theme-button-color: #2eaddc;
+  --tg-theme-button-text-color: white;
+}
+
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'Goldman-Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../public/fonts/Goldman-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Goldman-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../public/fonts/Goldman-Regular.ttf') format('truetype');
+}
